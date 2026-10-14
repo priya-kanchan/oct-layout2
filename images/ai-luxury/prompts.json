@@ -1,0 +1,21 @@
+{
+  "tool": "Built-in image_gen",
+  "assets": [
+    {
+      "file": "pool.jpg",
+      "prompt": "Use case: ads-marketing. Create a single photorealistic luxury real estate website photograph, landscape 16:9 composition. Fictional contemporary coastal residential development with elegant limestone, bronze detailing, floor-to-ceiling glass and generous balconies, tropical landscaping, understated premium architecture. Warm ivory, champagne gold and deep green palette. High-end architectural photography, realistic proportions and textures. No text, no logos, no watermark, no collage, no border. Subject: a spectacular infinity pool and landscaped podium terrace in the foreground with tall luxury residential towers behind and ocean on the horizon. Golden-hour light, elegant loungers, lush palms, refined resort atmosphere. Wide view suitable for a homepage hero, with a readable darker left area for white text."
+    },
+    {
+      "file": "aerial.jpg",
+      "prompt": "Use case: ads-marketing. Create a single photorealistic luxury real estate website photograph, landscape 16:9 composition. Fictional contemporary coastal residential development with elegant limestone, bronze detailing, floor-to-ceiling glass and generous balconies, tropical landscaping, understated premium architecture. Warm ivory, champagne gold and deep green palette. High-end architectural photography, realistic proportions and textures. No text, no logos, no watermark, no collage, no border. Subject: elevated aerial view of luxurious waterfront residential towers, landscaped grounds and expansive ocean, coastal city in the distance without identifiable landmarks. Clear late afternoon light, premium waterfront atmosphere."
+    },
+    {
+      "file": "night.jpg",
+      "prompt": "Use case: ads-marketing. Create a single photorealistic luxury real estate website photograph, landscape 16:9 composition. Fictional contemporary coastal residential development with elegant limestone, bronze detailing, floor-to-ceiling glass and generous balconies, tropical landscaping, understated premium architecture. Warm ivory, champagne gold and deep green palette. High-end architectural photography, realistic proportions and textures. No text, no logos, no watermark, no collage, no border. Subject: aerial view of luxury residential towers and landscaped pool podium at blue hour, warm apartment windows and architectural lighting reflecting in the pool, deep blue coastal horizon, polished luxurious atmosphere."
+    },
+    {
+      "file": "interior.jpg",
+      "prompt": "Use case: ads-marketing. Create a single photorealistic luxury real estate website photograph, landscape 16:9 composition. Fictional contemporary coastal residential development with elegant limestone, bronze detailing, floor-to-ceiling glass and generous balconies, tropical landscaping, understated premium architecture. Warm ivory, champagne gold and deep green palette. High-end architectural photography, realistic proportions and textures. No text, no logos, no watermark, no collage, no border. Subject: luxurious apartment living room overlooking the ocean through floor-to-ceiling windows, curved ivory sofa, travertine coffee table, warm oak panels, bronze accents, subtle sculptural lighting and balcony. Natural late afternoon light, quiet sophistication, architectural digest photography."
+    }
+  ]
+}
